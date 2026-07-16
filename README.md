@@ -79,15 +79,6 @@ Beyond writing code, I am a musician who frequently performs live, bringing the 
 </p>
 
 ---
-
-## 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Deepak392&show_icons=true&theme=transparent&hide_border=true" alt="stats" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak392&layout=compact&theme=transparent&hide_border=true" alt="langs" height="160"/>
-</p>
-
----
 <p align="center">
   <i>"Building the future, one commit at a time."</i>
 </p>
