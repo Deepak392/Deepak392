@@ -20,7 +20,7 @@ Beyond writing code, I am a musician who frequently performs live, bringing the 
 
 * **Software Engineering Intern | 4i Apps Solutions** *(June 2025 – July 2025)*
   * Gained hands-on experience in enterprise software environments, contributing to technical workflows and documenting weekly architectural learnings. 
-* **Treasurer | Student Government, Sai University** *(Mar 2025 – May 2025)*
+* **Treasurer | Student Government, Sai University** *(Nov 2024 – Nov 2025)*
   * Directed financial operations, managed large-scale budgets for university cultural festivals, and negotiated with external vendors to optimize event logistics.
 * **Technical Blogger | Medium** 
   * Regularly publish deep-dive articles on AI research, internship takeaways, and modern data engineering platforms. 
