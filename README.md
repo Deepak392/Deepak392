@@ -1,121 +1,94 @@
 <!-- Banner -->
-<h1 align="center">Hi 👋, I'm Deepak Kumar Patro</h1>
-<h3 align="center">Computing and Data Science Student @ Sai University | AI/ML Enthusiast | Full-Stack Developer | Aspiring Data Scientist</h3>
+<h1 align="center">Deepak Kumar Patro</h1>
+<h3 align="center">Computer Science & Engineering @ Sai University | AI & Data Engineering | Full-Stack Developer</h3>
 
----
-
-## 🌟 About Me  
-
-💡 I am a **Computer Science & Data Science undergraduate** at **Sai University, Chennai** with a passion for solving real-world problems using **AI, Computer Vision, and Full-Stack Development**.  
-
-✨ I combine strong **analytical skills** with hands-on **software engineering experience** to design scalable solutions.  
-🎸 Beyond tech, I’m also a **musician (singer & guitarist)** – creativity drives both my music and my code.  
-🌍 My goal is to leverage **technology + creativity** to build impactful solutions at scale.  
-
----
-
-## 🔭 What I’m Currently Working On  
-
-- 🤖 **AI & Computer Vision** – Exploring models that can understand human expressions and sentiments  
-- ☁️ **Cloud & CI/CD** – Building automated pipelines with **Docker & GitHub Actions** for scalable apps  
-- 🎤 **SpeakIt App** – A platform that helps students practice **public speaking & debating** using AI feedback  
-
----
-
-## 🎯 Career Goals  
-
-📌 I’m seeking **internship opportunities** in:  
-- Software Engineering 💻  
-- Artificial Intelligence / Machine Learning 🤖  
-- Full-Stack Development 🌐  
-- Data Analytics 📊  
-
-✅ Open to **collaboration, research, and real-world projects** where I can contribute meaningfully.  
-
----
-
-## 🛠️ Tech Stack  
-
-### 💻 Languages  
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <a href="https://www.linkedin.com/in/deepakkp1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/Deepak392"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-### 🌐 Web Development  
-<p align="center">
+---
+
+## 👨‍💻 About Me
+
+I am a Computer Science undergraduate with a strong focus on building intelligent, scalable applications. My primary interests lie at the intersection of **Large Language Models (LLMs), Agentic AI, Computer Vision, and Full-Stack Development**. I enjoy architecting systems that solve real-world problems and actively document my research and project builds through technical blogging on Medium. 
+
+Beyond writing code, I am a musician who frequently performs live, bringing the same level of creativity to my software architecture as I do to the stage.
+
+---
+
+## 💼 Professional Experience & Leadership
+
+* **Software Engineering Intern | 4i Apps Solutions** *(June 2025 – July 2025)*
+  * Gained hands-on experience in enterprise software environments, contributing to technical workflows and documenting weekly architectural learnings. 
+* **Treasurer | Student Government, Sai University** *(Mar 2025 – May 2025)*
+  * Directed financial operations, managed large-scale budgets for university cultural festivals, and negotiated with external vendors to optimize event logistics.
+* **Technical Blogger | Medium** 
+  * Regularly publish deep-dive articles on AI research, internship takeaways, and modern data engineering platforms. 
+
+---
+
+## 🚀 Featured Projects
+
+### [Moodify](https://github.com/Deepak392)
+*An intelligent music recommendation engine.*
+* **Tech:** Python, CNNs, API Integration
+* Built a computer vision pipeline utilizing Convolutional Neural Networks to detect user facial expressions and emotions, dynamically fetching and recommending music via third-party APIs based on the detected mood.
+
+### [E-Commerce Sentiment Analysis Engine](https://github.com/Deepak392)
+*Large-scale data pipeline and LLM integration.*
+* **Tech:** Microsoft Fabric, Large Language Models (LLMs), Python
+* Engineered a data processing architecture to ingest and analyze massive datasets from Amazon and Flipkart, utilizing advanced AI models to extract actionable sentiment analytics and consumer insights.
+
+### [SpeakIt App](https://github.com/Deepak392/speakit-public-speaking-training-app)
+*An AI-powered public speaking trainer.*
+* **Tech:** React, Node.js, AI/ML models
+* Developing a platform targeting university students to practice debating and public speaking, featuring real-time, AI-generated feedback loops to improve user confidence and delivery.
+
+### [Customer Churn Prediction](https://github.com/Deepak392/Customer-Churn-Prediction)
+*Predictive analytics for business retention.*
+* **Tech:** Scikit-Learn, Pandas, Data Visualization
+* Developed and trained machine learning models to identify high-risk customer segments, providing data-driven retention strategies for enterprise applications.
+
+---
+
+## 🛠️ Technical Arsenal
+
+### Languages & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 📊 Data Science & AI  
-<p align="center">
+### Data Science & AI
+<p align="left">
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### ⚙️ Tools & Cloud  
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+### Cloud & DevOps
+<p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
 ---
 
-## 📌 Featured Projects  
-
-🔹 [**Customer Churn Prediction**](https://github.com/Deepak392/Customer-Churn-Prediction)  
-*Predictive analytics model helping businesses retain customers using ML.*  
-
-🔹 [**EDA Datasets**](https://github.com/Deepak392/EDA-Datasets)  
-*Exploratory Data Analysis on real-world datasets to uncover hidden patterns.*  
-
-🔹 [**Student Government Website**](https://github.com/Deepak392/StudentGovWebsite)  
-*A platform for university governance & communication.*  
-
-🔹 [**SpeakIt App**](https://github.com/Deepak392/speakit-public-speaking-training-app)  
-*An AI-powered app to improve public speaking confidence.*  
-
----
-
-## 📊 GitHub Insights  
+## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Deepak392&show_icons=true&theme=radical" alt="stats" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak392&layout=compact&theme=radical" alt="langs" height="160"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepak392&theme=radical" alt="streak" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Deepak392&show_icons=true&theme=transparent&hide_border=true" alt="stats" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak392&layout=compact&theme=transparent&hide_border=true" alt="langs" height="160"/>
 </p>
 
 ---
-
-## 🌐 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepakkp1)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deepak392)  
-
----
-
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Deepak392&color=blue&style=flat-square&label=Profile+Views"/>  
-<img src="https://img.shields.io/github/followers/Deepak392?style=social"/>  
-<img src="https://img.shields.io/github/stars/Deepak392?style=social"/>  
-</p>  
-
----
-
-⭐️ *“Technology is best when it brings people together. Let’s build the future, one commit at a time.”*  
+  <i>"Building the future, one commit at a time."</i>
+</p>
