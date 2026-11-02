@@ -360,24 +360,12 @@ flowchart LR
     C --> D["2026<br/>Cybersecurity"]
     D --> E["2026<br/>Robotics Research"]
     E --> F["2026<br/>Software Engineering"]
-    
-    classDef start fill:#172D4A,stroke:#38BDF8,color:#fff
-    classDef end fill:#263F70,stroke:#A78BFA,color:#fff
-    
-    class A,B,C,D,E start
-    class F end
-```
 
-| Period | Experience | Key learning |
-|:---|:---|:---|
-| Aug 2024 | Signeasy — Data Analytics | Understanding business data |
-| Jun–Jul 2025 | 4i Apps — Data Science | Data pipelines and sentiment analysis |
-| Dec 2025–Jan 2026 | Signeasy — Founder's Office | AI workflows and business context |
-| Feb 2026 | PhishGuard — Hackathon | Rapid collaborative development |
-| Jun–Aug 2026 | IIT Bhubaneswar — Research | Robotics and sensor fusion |
-| Sep–Dec 2026 | Nexus Career — Team Lead | Software engineering and coordination |
+    classDef journey fill:#172D4A,stroke:#38BDF8,color:#FFFFFF,stroke-width:2px
+    classDef finalNode fill:#263F70,stroke:#A78BFA,color:#FFFFFF,stroke-width:3px
 
----
+    class A,B,C,D,E journey
+    class F finalNode
 
 # 05 / HOW I THINK ABOUT ENGINEERING
 
