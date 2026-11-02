@@ -1,362 +1,528 @@
-<!--
-  DEEPAK KUMAR PATRO | GITHUB PROFILE README
-  Repository: Deepak392/Deepak392
--->
+<!-- =======================================================
+     DEEPAK KUMAR PATRO | ENGINEERING PORTFOLIO
+     Special GitHub Profile Repository: Deepak392
+======================================================== -->
+
+<!-- HERO -->
 
 <div align="center">
 
-# DEEPAK KUMAR PATRO
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:101827,50:172D4A,100:263F70&text=DEEPAK%20KUMAR%20PATRO&fontColor=FFFFFF&fontSize=42&fontAlignY=43&desc=ENGINEERING%20%E2%80%A2%20INTELLIGENT%20SYSTEMS%20%E2%80%A2%20DATA&descSize=13&descAlignY=67&animation=fadeIn" />
 
-### COMPUTING & DATA SCIENCE · SOFTWARE ENGINEERING · AI/ML
+<br/>
 
-**I build. I investigate. I engineer.**
+### Computing & Data Science Undergraduate
 
-Exploring the intersection of intelligent systems, software engineering, and data-driven problem solving.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+systems%2C+not+just+projects.;Learning+by+engineering+real+solutions.;Exploring+AI%2C+software%2C+and+intelligent+systems.;Curiosity+drives.+Engineering+delivers." />
 
 <br/>
 
 <a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/Deepak392">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Deepak392">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Deepak392&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" />
+*"The interesting part of engineering isn't knowing every tool. It's figuring out what to do when you encounter something you don't know."*
 
 </div>
 
 ---
 
-## `01` — THE ENGINEER BEHIND THE CODE
+<div align="center">
 
-I'm a final-year **B.Tech Computing & Data Science student at Sai University, Chennai**, interested in building software that solves meaningful problems.
+`CHENNAI, INDIA` &nbsp;·&nbsp; `SAI UNIVERSITY` &nbsp;·&nbsp; `CLASS OF 2027`
 
-My journey so far has taken me through industry internships, robotics research at IIT Bhubaneswar, AI/ML experimentation, cybersecurity, and large-scale collaborative software engineering.
+</div>
 
-I enjoy entering unfamiliar technical domains, understanding the underlying problem, learning the tools required, and working towards practical solutions.
+# 01 / THE ENGINEER
 
-**A few things that define my engineering journey:**
+I'm Deepak, a final-year Computing and Data Science student at **Sai University**, interested in the intersection of software engineering, artificial intelligence, data science, and intelligent systems.
 
-| | Experience |
-|:---|:---|
-| `01` | Leading a **19-member engineering team** building a university placement platform |
-| `02` | Research internship exploring **LiDAR–IMU sensor fusion and SLAM** at IIT Bhubaneswar |
-| `03` | Industry exposure across **data analytics, AI automation, and machine learning** |
-| `04` | Experience working across the **AI/ML, data, backend, and robotics** ecosystems |
-| `05` | Elected Student Government Treasurer and technical community contributor |
+My journey has taken me through industry internships, robotics research at IIT Bhubaneswar, hackathons, and collaborative software engineering.
 
-> I don't measure engineering by the number of technologies I know. I measure it by the problems I can understand, the systems I can help build, and the things I learn along the way.
+I enjoy working on unfamiliar problems, understanding how different components fit together, and learning the technologies needed to turn an idea into a practical solution.
+
+### My engineering footprint
+
+<table>
+<tr>
+<td align="center" width="33%">
+<h2>19</h2>
+<strong>Team Members</strong><br/>
+<sub>Engineering team leadership</sub>
+</td>
+<td align="center" width="33%">
+<h2>6</h2>
+<strong>Featured Projects</strong><br/>
+<sub>Across different problem domains</sub>
+</td>
+<td align="center" width="33%">
+<h2>4+</h2>
+<strong>Problem Domains</strong><br/>
+<sub>Software, AI, data & robotics</sub>
+</td>
+</tr>
+</table>
+
+<sub>Figures represent the featured work documented in this portfolio, not production deployments or independently measured outcomes.</sub>
 
 ---
 
-## `02` — ENGINEERING TOOLKIT
+# 02 / THE ENGINEERING MAP
 
-*Technologies I've explored and applied across projects, internships, and research.*
+*Different domains. Different constraints. One continuous learning journey.*
 
 <div align="center">
 
-**PROGRAMMING LANGUAGES**
+<img src="https://img.shields.io/badge/01-SOFTWARE_ENGINEERING-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/02-ARTIFICIAL_INTELLIGENCE-7C3AED?style=for-the-badge" />
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts&theme=dark" />
+<img src="https://img.shields.io/badge/03-DATA_ENGINEERING-0891B2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/04-ROBOTICS_RESEARCH-0F766E?style=for-the-badge" />
 
-**AI / MACHINE LEARNING / DATA**
+</div>
 
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv&theme=dark" />
+| Domain | What I've explored |
+|:---|:---|
+| Software Engineering | System design, backend development, REST APIs, team coordination |
+| AI / ML | Classification, sentiment analysis, computer vision, NLP |
+| Data Engineering | Data pipelines, PySpark, Microsoft Fabric, analytical workflows |
+| Robotics | LiDAR–IMU fusion, SLAM, point-cloud processing, ROS 2 |
+| Cybersecurity | URL risk analysis, phishing detection, threat-intelligence integrations |
 
+---
+
+# 03 / SELECTED ENGINEERING WORK
+
+<sub>A collection of problems I've explored, systems I've contributed to, and engineering lessons I've gained.</sub>
+
+<br/>
+
+## 01 — NEXUS CAREER
+
+### Engineering a university placement ecosystem
+
+<img src="https://img.shields.io/badge/ONGOING-FFAA00?style=flat-square" />
+<img src="https://img.shields.io/badge/ROLE-TEAM_LEAD-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/TEAM-19_ENGINEERS-7C3AED?style=flat-square" />
+
+**Sai University · September–December 2026**
+
+A centralized placement and internship platform designed to connect students, recruiters, alumni, and university administrators.
+
+**My contribution**
+- Leading a 19-member engineering team across frontend, backend, database, infrastructure, UI/UX, QA, and security.
+- Contributing to requirements engineering, SRS, UML, and system design.
+- Coordinating modular ownership and engineering deliverables.
+- Working on REST API design, documentation, and security considerations.
+- Following Agile/Scrum practices to translate requirements into manageable tasks.
+
+**Technology stack**
+
+`React` `TypeScript` `Django REST` `PostgreSQL` `Redis` `Celery` `Docker`
+
+<details>
+<summary><strong>↳ Explore the engineering perspective</strong></summary>
+
+**The problem:** Placement-related information and workflows need a centralized system for students, recruiters, and university administrators.
+
+**The engineering challenge:** Translating multiple stakeholder requirements into modular components while coordinating a large team.
+
+**What I'm learning:** Requirements traceability, ownership boundaries, API contracts, security considerations, and the importance of keeping implementation aligned with architecture.
+
+**Project status:** Under development. Proposed features and intended outcomes should not be interpreted as completed functionality.
+
+</details>
+
+<div align="right">
+
+[View Project Repository →](https://github.com/Deepak392/nexus-career)
+
+</div>
+
+---
+
+## 02 — LIDAR-INERTIAL SLAM
+
+### Understanding how machines perceive the world
+
+<img src="https://img.shields.io/badge/DOMAIN-ROBOTICS-0F766E?style=flat-square" />
+<img src="https://img.shields.io/badge/RESEARCH-IIT_BHUBANESWAR-2563EB?style=flat-square" />
+
+**IIT Bhubaneswar · June–August 2026**
+
+Explored LiDAR–IMU sensor fusion and simultaneous localization and mapping (SLAM) for autonomous navigation.
+
+**My contribution**
+- Set up ROS 2 development environments.
+- Explored FAST-LIO2, LIO-SAM, KISS-ICP, LOAM, and Point-LIO.
+- Worked on NCLT benchmark dataset preparation and ROS 2 bag conversion.
+- Investigated timestamped point-cloud reconstruction and sensor synchronization.
+- Collected synchronized LiDAR–IMU data using a custom sensing platform.
+- Developed a plant-root phenotyping pipeline using ResNet34 segmentation, skeletonization, and graph-based analysis.
+
+**Technology stack**
+
+`ROS 2` `C++` `FAST-LIO2` `LIO-SAM` `PCL` `Eigen` `GTSAM` `RViz` `ResNet34`
+
+<details>
+<summary><strong>↳ Explore the engineering perspective</strong></summary>
+
+**The problem:** Autonomous systems need reliable spatial understanding using noisy, time-dependent sensor measurements.
+
+**The engineering challenge:** Working with sensor data, synchronization, framework configurations, dependencies, and point-cloud processing.
+
+**What I'm learning:** Robotics software workflows, sensor fusion, dataset preparation, and systematic debugging in research environments.
+
+</details>
+
+---
+
+## 03 — PHISHGUARD
+
+### Making URL safety more informative
+
+<img src="https://img.shields.io/badge/DOMAIN-CYBERSECURITY-DC2626?style=flat-square" />
+<img src="https://img.shields.io/badge/EVENT-48_HOUR_HACKATHON-7C3AED?style=flat-square" />
+
+**Sai University · February 2026**
+
+A URL safety analyzer exploring a multi-signal approach to phishing detection instead of relying exclusively on blacklist-based warnings.
+
+**Solution components**
+- Heuristic URL pattern checks.
+- Machine-learning classification.
+- WHOIS, SSL, and DNS validation.
+- Threat-intelligence integrations such as VirusTotal and Google Safe Browsing where configured.
+- A risk-scoring workflow with Safe, Suspicious, and Phishing categories.
+
+**Technology stack**
+
+`React` `FastAPI` `SQLite` `Machine Learning` `Security APIs`
+
+<details>
+<summary><strong>↳ Explore the engineering perspective</strong></summary>
+
+**The problem:** A blacklist-only approach cannot provide comprehensive contextual information about every suspicious URL.
+
+**The engineering challenge:** Combining different risk signals into a structured assessment that can be understood by end users.
+
+**What I'm learning:** Collaborative problem-solving, rapid feature prioritization, API integration, and communicating technical risk.
+
+The broader design also considered scan history, bulk URL analysis, analytics, and a browser extension. These should not be assumed to be fully implemented.
+
+</details>
+
+<div align="right">
+
+[View Project Repository →](https://github.com/Deepak392/URL-Safety-Analyzer)
+
+</div>
+
+---
+
+## 04 — AI COMPETITOR WATCHDOG
+
+### Turning competitive intelligence into actionable information
+
+<img src="https://img.shields.io/badge/DOMAIN-AI_AUTOMATION-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/ORGANIZATION-SIGNEASY-0891B2?style=flat-square" />
+
+**Signeasy · Founder's Office Internship · December 2025–January 2026**
+
+A focused V1 prototype intended to automate competitor monitoring and deliver meaningful updates to internal stakeholders.
+
+**My contribution**
+- Explored monitoring of competitor websites, news, and app-store listings.
+- Focused on identifying meaningful changes rather than generating excessive notifications.
+- Worked on an end-to-end workflow for collecting updates and producing structured AI summaries.
+- Explored Slack-based information delivery.
+- Considered the needs of Product, Marketing, Sales, and Leadership teams.
+
+**Technology focus**
+
+`AI Automation` `Competitive Intelligence` `AI Summarization` `Slack`
+
+<details>
+<summary><strong>↳ Explore the engineering perspective</strong></summary>
+
+**The problem:** Manually tracking competitor activity can be inconsistent and time-consuming.
+
+**The engineering challenge:** Making information collection and summarization useful, understandable, and low-noise.
+
+**What I'm learning:** Understanding stakeholder needs, designing information workflows, and prioritizing business relevance over unnecessary technical complexity.
+
+</details>
+
+<div align="right">
+
+[View Project Repository →](https://github.com/Deepak392/ai-competitor-watchdog-v1)
+
+</div>
+
+---
+
+## 05 — AI E-COMMERCE FEEDBACK ENGINE
+
+### Connecting data engineering with customer intelligence
+
+<img src="https://img.shields.io/badge/DOMAIN-DATA_ENGINEERING-E25A1C?style=flat-square" />
+<img src="https://img.shields.io/badge/ORGANIZATION-4I_APPS-2563EB?style=flat-square" />
+
+**4i Apps Solutions · Data Science & ML Internship · June–July 2025**
+
+An architecture and prototype exploring how customer reviews could be processed and analyzed using Microsoft Fabric.
+
+**My contribution**
+- Explored data ingestion into a Microsoft Fabric Lakehouse.
+- Joined review and metadata datasets using PySpark.
+- Applied TextBlob sentiment analysis.
+- Explored processed data storage for reporting.
+- Designed Power BI reporting concepts to visualize product sentiment.
+
+**Technology stack**
+
+`Microsoft Fabric` `Lakehouse` `PySpark` `TextBlob` `Power BI`
+
+<details>
+<summary><strong>↳ Explore the data workflow</strong></summary>
+
+```mermaid
+flowchart TD
+    A["Customer Review Files"] --> B["Fabric Lakehouse"]
+    C["Product Metadata"] --> B
+    B --> D["PySpark Transformation"]
+    D --> E["TextBlob Sentiment Analysis"]
+    E --> F["Processed Results"]
+    F --> G["Power BI Reporting"]
+```
+
+**The engineering challenge:** Connecting ingestion, transformation, sentiment analysis, and reporting into one coherent workflow.
+
+**What I'm learning:** Data pipeline design, distributed data processing, and the relationship between technical outputs and business intelligence.
+
+This was architecture and prototyping work, not a claim of production deployment.
+
+</details>
+
+---
+
+## 06 — RETENTION & CHURN ANALYSIS
+
+### Exploring the signals behind customer attrition
+
+<img src="https://img.shields.io/badge/DOMAIN-DATA_ANALYTICS-0891B2?style=flat-square" />
+<img src="https://img.shields.io/badge/ORGANIZATION-SIGNEASY-2563EB?style=flat-square" />
+
+**Signeasy · Data Analyst Internship · August 2024**
+
+Worked with the Analytics team to investigate customer retention and churn patterns following an earlier business review that identified approximately $1 million in annual recurring revenue loss on the web application.
+
+**My contribution**
+- Explored retained and churned customer accounts.
+- Investigated product usage patterns and customer personas.
+- Examined potential early indicators of churn.
+- Built an exploratory retention-versus-churn model.
+- Shared intermediate findings during regular team discussions.
+
+**Technology focus**
+
+`Python` `Data Analysis` `EDA` `Predictive Modeling`
+
+<details>
+<summary><strong>↳ Explore the engineering perspective</strong></summary>
+
+**The problem:** Understanding which patterns might distinguish retained customers from churned customers.
+
+**The analytical challenge:** Investigating relationships in available data without overstating the predictive reliability of an exploratory model.
+
+**What I'm learning:** Business-oriented data exploration, communicating findings, and understanding the limitations of analytical models.
+
+</details>
+
+---
+
+# 04 / THE ENGINEERING JOURNEY
+
+*An evolution across problem domains, technologies, and responsibilities.*
+
+```mermaid
+flowchart LR
+    A["2024<br/>Data Analytics"] --> B["2025<br/>Data Science"]
+    B --> C["2025<br/>AI Automation"]
+    C --> D["2026<br/>Cybersecurity"]
+    D --> E["2026<br/>Robotics Research"]
+    E --> F["2026<br/>Software Engineering"]
+    
+    classDef start fill:#172D4A,stroke:#38BDF8,color:#fff
+    classDef end fill:#263F70,stroke:#A78BFA,color:#fff
+    
+    class A,B,C,D,E start
+    class F end
+```
+
+| Period | Experience | Key learning |
+|:---|:---|:---|
+| Aug 2024 | Signeasy — Data Analytics | Understanding business data |
+| Jun–Jul 2025 | 4i Apps — Data Science | Data pipelines and sentiment analysis |
+| Dec 2025–Jan 2026 | Signeasy — Founder's Office | AI workflows and business context |
+| Feb 2026 | PhishGuard — Hackathon | Rapid collaborative development |
+| Jun–Aug 2026 | IIT Bhubaneswar — Research | Robotics and sensor fusion |
+| Sep–Dec 2026 | Nexus Career — Team Lead | Software engineering and coordination |
+
+---
+
+# 05 / HOW I THINK ABOUT ENGINEERING
+
+### My development philosophy
+
+I don't believe a project is just a collection of technologies. Every meaningful project involves decisions, constraints, trade-offs, debugging, and collaboration.
+
+Here's the approach I try to follow:
+
+```mermaid
+flowchart TD
+    A["Understand the problem"] --> B["Explore the domain"]
+    B --> C["Learn the required tools"]
+    C --> D["Break down the requirements"]
+    D --> E["Build and experiment"]
+    E --> F["Test and investigate"]
+    F --> G["Document and communicate"]
+    G --> H["Reflect and improve"]
+    H -.-> B
+
+    classDef primary fill:#172D4A,stroke:#38BDF8,color:#fff
+    class A,B,C,D,E,F,G,H primary
+```
+
+| Principle | How I put it into practice |
+|:---|:---|
+| Curiosity | Explore unfamiliar technical domains instead of avoiding them. |
+| Structured learning | Break down complex problems into manageable tasks. |
+| Ownership | Take responsibility for assigned work and communicate progress. |
+| Collaboration | Coordinate with teammates and learn from different perspectives. |
+| Critical thinking | Investigate why something fails before attempting random fixes. |
+| Engineering integrity | Clearly distinguish working implementations from prototypes and proposed features. |
+
+---
+
+# 06 / BEYOND THE TERMINAL
+
+*Engineering is also about people, responsibility, and execution.*
+
+**Student Government — Treasurer**
+
+Elected to manage financial coordination, budgeting, vendor negotiations, and reimbursements. Also contributed to student initiatives and university events.
+
+**Turingites — Computer Science Society**
+
+Core member contributing to the university's technical community.
+
+**Team Leadership — Nexus Career**
+
+Leading a 19-member engineering team, coordinating work across different technical and non-technical responsibilities.
+
+**University Initiatives**
+
+Contributed to hackathons, workshops, student events, and collaborative campus initiatives.
+
+---
+
+# 07 / MY TECH STACK
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts&theme=dark" />
+
+### AI / ML / Data Science
+
+<img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark" />
+
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft%20Fabric-742774?style=flat-square&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 
-**BACKEND / DATABASES / WEB**
+### Backend / Databases
 
 <img src="https://skillicons.dev/icons?i=react,fastapi,django,postgres,redis,sqlite&theme=dark" />
 
-**ROBOTICS / RESEARCH**
+### Robotics / Research
 
-<img src="https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white" />
+<img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white" />
 <img src="https://img.shields.io/badge/FAST--LIO2-SLAM-34495E?style=flat-square" />
 <img src="https://img.shields.io/badge/LIO--SAM-SLAM-34495E?style=flat-square" />
-<img src="https://img.shields.io/badge/PCL-Point%20Clouds-34495E?style=flat-square" />
-<img src="https://skillicons.dev/icons?i=cpp,linux&theme=dark" />
 
-**DEVOPS / TOOLS**
+### Development Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,vscode&theme=dark" />
 
 </div>
 
----
-
-## `03` — SELECTED ENGINEERING WORK
-
-*Six projects. Six different problem spaces. One continuous learning curve.*
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 01. Nexus Career
-**University Placement & Internship Platform**
-
-<img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-orange?style=flat-square" />
-<img src="https://img.shields.io/badge/ROLE-TEAM%20LEAD-blue?style=flat-square" />
-
-A centralized platform connecting students, recruiters, alumni, and university administrators.
-
-**My contribution**
-- Leading a 19-member engineering team.
-- Coordinating frontend, backend, database, infrastructure, QA, and security.
-- Contributing to system architecture, SRS, UML, and API design.
-- Working on modular engineering workflows and security considerations.
-
-**Stack**
-
-`React` `TypeScript` `Django REST` `PostgreSQL` `Redis` `Celery` `Docker`
-
-[Explore Repository](https://github.com/Deepak392/nexus-career)
-
-</td>
-<td width="50%" valign="top">
-
-### 02. LiDAR-Inertial SLAM
-**Autonomous Navigation Research**
-
-<img src="https://img.shields.io/badge/DOMAIN-ROBOTICS-22314E?style=flat-square" />
-<img src="https://img.shields.io/badge/RESEARCH-IIT%20BHUBANESWAR-blue?style=flat-square" />
-
-Exploring sensor fusion, localization, mapping, and autonomous navigation.
-
-**My contribution**
-- Investigated FAST-LIO2, LIO-SAM, KISS-ICP, LOAM, and Point-LIO.
-- Prepared NCLT benchmark data for ROS 2 workflows.
-- Worked on timestamped point-cloud reconstruction.
-- Collected synchronized LiDAR–IMU data.
-- Developed a plant-root phenotyping pipeline using ResNet34.
-
-**Stack**
-
-`ROS 2` `C++` `FAST-LIO2` `LIO-SAM` `PCL` `Eigen` `RViz` `ResNet34`
-
-*Research internship · June–August 2026*
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 03. PhishGuard
-**Intelligent URL Safety Analyzer**
-
-<img src="https://img.shields.io/badge/DOMAIN-CYBERSECURITY-red?style=flat-square" />
-<img src="https://img.shields.io/badge/BUILD-48H%20HACKATHON-purple?style=flat-square" />
-
-Exploring multi-signal phishing detection beyond traditional blacklist-based approaches.
-
-**Solution approach**
-- Heuristic URL pattern analysis.
-- Machine-learning classification.
-- WHOIS, SSL, and DNS validation.
-- Threat-intelligence integrations.
-- Risk scoring and contextual safety guidance.
-
-**Stack**
-
-`React` `FastAPI` `SQLite` `ML` `VirusTotal API`
-
-[Explore Repository](https://github.com/Deepak392/URL-Safety-Analyzer)
-
-</td>
-<td width="50%" valign="top">
-
-### 04. AI Competitor Watchdog
-**Automated Competitive Intelligence**
-
-<img src="https://img.shields.io/badge/DOMAIN-AI%20AUTOMATION-8A2BE2?style=flat-square" />
-<img src="https://img.shields.io/badge/ORGANIZATION-SIGNEASY-16A085?style=flat-square" />
-
-A V1 prototype intended to make competitor monitoring more informative and less manual.
-
-**My contribution**
-- Explored monitoring across competitor websites, news, and app-store listings.
-- Focused on identifying meaningful competitive changes.
-- Worked on structured AI-powered summaries.
-- Explored Slack-based delivery for internal stakeholders.
-
-**Focus**
-
-`AI Automation` `Competitive Intelligence` `Summarization` `Slack`
-
-[Explore Repository](https://github.com/Deepak392/ai-competitor-watchdog-v1)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 05. E-Commerce Feedback Engine
-**AI-Powered Customer Review Analytics**
-
-<img src="https://img.shields.io/badge/DOMAIN-DATA%20ENGINEERING-E25A1C?style=flat-square" />
-<img src="https://img.shields.io/badge/ORGANIZATION-4I%20APPS-2C7BE5?style=flat-square" />
-
-An architecture and prototype connecting customer review processing with business intelligence.
-
-**My contribution**
-- Explored Microsoft Fabric Lakehouse ingestion.
-- Joined review and metadata datasets using PySpark.
-- Applied TextBlob sentiment analysis.
-- Designed reporting concepts in Power BI.
-
-**Stack**
-
-`Microsoft Fabric` `PySpark` `TextBlob` `Power BI`
-
-*Data Science & ML Internship · June–July 2025*
-
-</td>
-<td width="50%" valign="top">
-
-### 06. Retention & Churn Analysis
-**Customer Analytics**
-
-<img src="https://img.shields.io/badge/DOMAIN-DATA%20ANALYTICS-0078D4?style=flat-square" />
-<img src="https://img.shields.io/badge/ORGANIZATION-SIGNEASY-16A085?style=flat-square" />
-
-Investigating customer retention, churn patterns, and potential early indicators of customer attrition.
-
-**My contribution**
-- Explored retained and churned customer accounts.
-- Investigated product usage and customer personas.
-- Built an exploratory retention-versus-churn model.
-- Shared intermediate findings with the Analytics team.
-
-**Focus**
-
-`Python` `EDA` `Data Analysis` `Predictive Modeling`
-
-*Data Analyst Internship · August 2024*
-
-</td>
-</tr>
-</table>
+<sub>My technology landscape reflects practical exposure across projects, internships, and research. Familiarity does not imply production-level expertise in every listed tool.</sub>
 
 ---
 
-## `04` — THE ENGINEERING TIMELINE
-
-*A chronological look at how my interests have evolved.*
-
-```text
-2024  ──  DATA ANALYTICS
-          Signeasy
-          Retention & Churn Analysis
-
-2025  ──  DATA SCIENCE & MACHINE LEARNING
-          4i Apps Solutions
-          AI-Powered E-Commerce Feedback Engine
-
-2025  ──  AI AUTOMATION
-          Signeasy · Founder's Office
-          AI Competitor Watchdog
-
-2026  ──  CYBERSECURITY
-          PhishGuard · 48-Hour Hackathon
-
-2026  ──  ROBOTICS & RESEARCH
-          IIT Bhubaneswar
-          LiDAR-Inertial SLAM & Autonomous Navigation
-
-2026  ──  SOFTWARE ENGINEERING & LEADERSHIP
-          Sai University
-          Nexus Career · 19-Member Engineering Team
-```
-
----
-
-## `05` — HOW I APPROACH ENGINEERING
-
-I believe the best learning happens when you move beyond simply making something work.
-
-| Engineering principle | What it means in practice |
-|:---|:---|
-| **Understand the problem** | Identify the actual need before choosing a technology. |
-| **Learn by building** | Explore unfamiliar tools through hands-on implementation. |
-| **Debug systematically** | Investigate dependencies, configurations, data, and implementation issues. |
-| **Think in systems** | Understand how individual components interact within a larger architecture. |
-| **Build collaboratively** | Share progress, coordinate ownership, and learn from teammates. |
-| **Communicate honestly** | Document decisions and distinguish completed work from proposed features. |
-
-### An idea I try to follow
-
-> Don't just document what you built. Document what you learned, what went wrong, what you changed, and why.
-
----
-
-## `06` — LEADERSHIP & BEYOND CODE
-
-Engineering doesn't happen in isolation. Some of my most valuable experiences have come from working with people outside purely technical environments.
-
-- **Student Government Treasurer** — Elected role involving budgeting, financial coordination, vendor negotiations, and university initiatives.
-- **Engineering Team Lead** — Coordinating a 19-member team for Nexus Career.
-- **Turingites CS Society** — Core member of the university's Computer Science community.
-- **University Initiatives** — Contributed to hackathons, workshops, student events, and cross-functional activities.
-
----
-
-## `07` — GITHUB ACTIVITY
+# 08 / GITHUB ACTIVITY
 
 <div align="center">
 
 <a href="https://github.com/Deepak392">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Deepak392&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Deepak392&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 </a>
+
 <a href="https://github.com/Deepak392">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak392&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak392&layout=compact&theme=tokyonight&hide_border=true" />
 </a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Deepak392&theme=tokyonight&hide_border=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Deepak392&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
 ---
 
-## `08` — WHAT'S NEXT?
+# 09 / WHAT'S NEXT?
 
-Currently interested in exploring:
+I'm currently focused on becoming a stronger software engineer while continuing to explore intelligent systems.
 
-- Scalable backend engineering and system design.
+Areas I'm particularly interested in:
+
+- Backend engineering and scalable system design.
 - Production-ready AI/ML applications.
 - Data engineering and distributed processing.
 - MLOps, deployment, and cloud infrastructure.
 - Software architecture and engineering best practices.
 
-I'm open to connecting with engineers, researchers, founders, and teams working on interesting technical challenges.
+I'm interested in opportunities where I can contribute to real engineering challenges, learn from experienced teams, and progressively take on greater responsibility.
+
+---
 
 <div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,50:172D4A,100:263F70&height=120&section=footer" />
 
 ### LET'S BUILD SOMETHING MEANINGFUL.
 
 **Curiosity starts the journey. Engineering takes it forward.**
 
-<br/>
-
 <a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LET'S%20CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br/><br/>
 
-*Thanks for visiting my corner of GitHub.*
+<sub>Designed with curiosity, built with code, and continuously evolving.</sub>
 
 **Deepak Kumar Patro** · Chennai, India
 
