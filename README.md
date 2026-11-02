@@ -483,23 +483,54 @@ Contributed to hackathons, workshops, student events, and collaborative campus i
 
 # 08 / GITHUB ACTIVITY
 
+*Consistency, experimentation, and continuous improvement — one commit at a time.*
+
 <div align="center">
 
-<a href="https://github.com/Deepak392">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Deepak392&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<a href="https://github.com/Deepak392?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<a href="https://github.com/Deepak392">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak392&layout=compact&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Deepak392?tab=overview">
+<img src="https://img.shields.io/badge/VIEW_GITHUB_PROFILE-238636?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Deepak392&theme=tokyo-night&hide_border=true&area=true" />
+<a href="https://github.com/Deepak392">
+<img src="https://img.shields.io/badge/GitHub-Deepak392-181717?style=flat-square&logo=github" />
+</a>
+<img src="https://img.shields.io/badge/Repositories-Explore-blue?style=flat-square&logo=git" />
+<img src="https://img.shields.io/badge/Open%20Source-Always%20Learning-success?style=flat-square&logo=opensourceinitiative" />
 
 </div>
 
 ---
+
+### What I work with
+
+<div align="center">
+
+| Software Engineering | AI & Data | Research & Exploration |
+|:---:|:---:|:---:|
+| Backend Development | Machine Learning | Robotics |
+| REST APIs | Data Pipelines | LiDAR–IMU SLAM |
+| System Design | Computer Vision | Experimental Prototyping |
+
+</div>
+
+### Explore my work
+
+<div align="center">
+
+<a href="https://github.com/Deepak392/nexus-career">Nexus Career</a> &nbsp;·&nbsp;
+<a href="https://github.com/Deepak392/URL-Safety-Analyzer">PhishGuard</a> &nbsp;·&nbsp;
+<a href="https://github.com/Deepak392/ai-competitor-watchdog-v1">AI Competitor Watchdog</a>
+
+<br/><br/>
+
+**More than contribution graphs, I want my repositories to tell the story of what I've learned and built.**
+
+</div>
 
 # 09 / WHAT'S NEXT?
 
