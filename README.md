@@ -1,180 +1,363 @@
-# Deepak Kumar Patro
-### Computing & Data Science | Aspiring Software Engineer | AI/ML & Data Engineering
+<!--
+  DEEPAK KUMAR PATRO | GITHUB PROFILE README
+  Repository: Deepak392/Deepak392
+-->
 
-Building things, understanding how they work, and learning what it takes to make them better.
+<div align="center">
 
-I'm a final-year Computing and Data Science student at **Sai University, Chennai**, interested in the intersection of software engineering, artificial intelligence, data science, and intelligent systems.
+# DEEPAK KUMAR PATRO
 
-My experience spans industry internships, robotics research, hackathons, and collaborative software engineering projects. I enjoy working on unfamiliar problems, learning the tools required to solve them, breaking complex requirements into manageable tasks, and collaborating with people to turn ideas into working solutions.
+### COMPUTING & DATA SCIENCE · SOFTWARE ENGINEERING · AI/ML
 
-**I believe engineering is as much about how you approach a problem as what you eventually build.**
+**I build. I investigate. I engineer.**
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](https://github.com/Deepak392) · [Email](YOUR_EMAIL)
+Exploring the intersection of intelligent systems, software engineering, and data-driven problem solving.
+
+<br/>
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Deepak392">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Deepak392&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" />
+
+</div>
 
 ---
 
-## What I've Been Working On
+## `01` — THE ENGINEER BEHIND THE CODE
 
-Rather than presenting projects as isolated repositories, here's a look at the engineering problems I've explored, the environments I've worked in, and the contributions I've made.
+I'm a final-year **B.Tech Computing & Data Science student at Sai University, Chennai**, interested in building software that solves meaningful problems.
 
-### 01. Nexus Career — University Placement & Internship Platform
-**Sai University | Software Engineering Project | September–December 2026 (Ongoing)**
+My journey so far has taken me through industry internships, robotics research at IIT Bhubaneswar, AI/ML experimentation, cybersecurity, and large-scale collaborative software engineering.
 
-Leading a 19-member engineering team developing a centralized placement and internship platform connecting students, recruiters, alumni, and university administrators.
+I enjoy entering unfamiliar technical domains, understanding the underlying problem, learning the tools required, and working towards practical solutions.
 
-- Coordinating engineering work across frontend, backend, databases, infrastructure, UI/UX, QA, and security.
-- Contributing to system architecture, requirements engineering, UML, and Software Requirements Specification (SRS).
-- Working on modular REST API design, API documentation, and requirements traceability.
-- Exploring security considerations including role-based access control, backend validation, and audit logging.
-- Following Agile/Scrum practices to coordinate ownership and translate requirements into manageable engineering tasks.
+**A few things that define my engineering journey:**
 
-**Engineering focus:** Team coordination · System Design · Requirements Engineering · REST APIs · PostgreSQL · React · TypeScript · Django · Redis · Celery · Docker
+| | Experience |
+|:---|:---|
+| `01` | Leading a **19-member engineering team** building a university placement platform |
+| `02` | Research internship exploring **LiDAR–IMU sensor fusion and SLAM** at IIT Bhubaneswar |
+| `03` | Industry exposure across **data analytics, AI automation, and machine learning** |
+| `04` | Experience working across the **AI/ML, data, backend, and robotics** ecosystems |
+| `05` | Elected Student Government Treasurer and technical community contributor |
 
-*Current learning: How to coordinate a large engineering team while keeping requirements, architecture, and implementation aligned.*
+> I don't measure engineering by the number of technologies I know. I measure it by the problems I can understand, the systems I can help build, and the things I learn along the way.
 
-### 02. LiDAR-Inertial SLAM & Autonomous Navigation
-**IIT Bhubaneswar | Machine Learning Research Intern | June–August 2026**
+---
 
-Explored LiDAR–IMU sensor fusion and simultaneous localization and mapping (SLAM), gaining practical exposure to robotics research and autonomous navigation systems.
+## `02` — ENGINEERING TOOLKIT
 
-- Set up ROS 2 development environments and explored FAST-LIO2, LIO-SAM, KISS-ICP, LOAM, and Point-LIO.
-- Worked on preparing the NCLT benchmark dataset by converting multi-sensor recordings into ROS 2 bag files.
-- Investigated timestamped point-cloud reconstruction, sensor synchronization, and FAST-LIO2-compatible preprocessing.
-- Collected synchronized LiDAR–IMU data using a custom sensing platform.
-- Developed a plant-root phenotyping pipeline using ResNet34 semantic segmentation, skeletonization, and graph-based analysis.
+*Technologies I've explored and applied across projects, internships, and research.*
 
-**Engineering focus:** ROS 2 · C++ · LiDAR · Sensor Fusion · SLAM · FAST-LIO2 · LIO-SAM · PCL · Eigen · ResNet34
+<div align="center">
 
-*Current learning: Working with research-grade systems, debugging unfamiliar frameworks, and understanding how raw sensor data becomes meaningful spatial information.*
+**PROGRAMMING LANGUAGES**
 
-### 03. PhishGuard — URL Safety Analyzer
-**Sai University | 48-Hour Hackathon | February 2026**
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts&theme=dark" />
 
-Explored a multi-signal approach to phishing URL detection instead of relying exclusively on blacklist-based warnings.
+**AI / MACHINE LEARNING / DATA**
 
-- Worked with a solution combining heuristic checks, ML classification, and network validation.
-- Explored WHOIS, SSL, DNS, and threat-intelligence integrations.
-- Designed a scoring workflow that categorizes URLs as Safe, Suspicious, or Phishing.
-- Considered structured risk reports and contextual security guidance to make technical results understandable to users.
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv&theme=dark" />
 
-**Engineering focus:** React · FastAPI · SQLite · Machine Learning · Cybersecurity · API Integration
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20Fabric-742774?style=flat-square&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 
-*Current learning: Prioritizing features, collaborating under time constraints, and translating security signals into understandable user-facing information.*
+**BACKEND / DATABASES / WEB**
+
+<img src="https://skillicons.dev/icons?i=react,fastapi,django,postgres,redis,sqlite&theme=dark" />
+
+**ROBOTICS / RESEARCH**
+
+<img src="https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white" />
+<img src="https://img.shields.io/badge/FAST--LIO2-SLAM-34495E?style=flat-square" />
+<img src="https://img.shields.io/badge/LIO--SAM-SLAM-34495E?style=flat-square" />
+<img src="https://img.shields.io/badge/PCL-Point%20Clouds-34495E?style=flat-square" />
+<img src="https://skillicons.dev/icons?i=cpp,linux&theme=dark" />
+
+**DEVOPS / TOOLS**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,vscode&theme=dark" />
+
+</div>
+
+---
+
+## `03` — SELECTED ENGINEERING WORK
+
+*Six projects. Six different problem spaces. One continuous learning curve.*
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01. Nexus Career
+**University Placement & Internship Platform**
+
+<img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/ROLE-TEAM%20LEAD-blue?style=flat-square" />
+
+A centralized platform connecting students, recruiters, alumni, and university administrators.
+
+**My contribution**
+- Leading a 19-member engineering team.
+- Coordinating frontend, backend, database, infrastructure, QA, and security.
+- Contributing to system architecture, SRS, UML, and API design.
+- Working on modular engineering workflows and security considerations.
+
+**Stack**
+
+`React` `TypeScript` `Django REST` `PostgreSQL` `Redis` `Celery` `Docker`
+
+[Explore Repository](https://github.com/Deepak392/nexus-career)
+
+</td>
+<td width="50%" valign="top">
+
+### 02. LiDAR-Inertial SLAM
+**Autonomous Navigation Research**
+
+<img src="https://img.shields.io/badge/DOMAIN-ROBOTICS-22314E?style=flat-square" />
+<img src="https://img.shields.io/badge/RESEARCH-IIT%20BHUBANESWAR-blue?style=flat-square" />
+
+Exploring sensor fusion, localization, mapping, and autonomous navigation.
+
+**My contribution**
+- Investigated FAST-LIO2, LIO-SAM, KISS-ICP, LOAM, and Point-LIO.
+- Prepared NCLT benchmark data for ROS 2 workflows.
+- Worked on timestamped point-cloud reconstruction.
+- Collected synchronized LiDAR–IMU data.
+- Developed a plant-root phenotyping pipeline using ResNet34.
+
+**Stack**
+
+`ROS 2` `C++` `FAST-LIO2` `LIO-SAM` `PCL` `Eigen` `RViz` `ResNet34`
+
+*Research internship · June–August 2026*
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03. PhishGuard
+**Intelligent URL Safety Analyzer**
+
+<img src="https://img.shields.io/badge/DOMAIN-CYBERSECURITY-red?style=flat-square" />
+<img src="https://img.shields.io/badge/BUILD-48H%20HACKATHON-purple?style=flat-square" />
+
+Exploring multi-signal phishing detection beyond traditional blacklist-based approaches.
+
+**Solution approach**
+- Heuristic URL pattern analysis.
+- Machine-learning classification.
+- WHOIS, SSL, and DNS validation.
+- Threat-intelligence integrations.
+- Risk scoring and contextual safety guidance.
+
+**Stack**
+
+`React` `FastAPI` `SQLite` `ML` `VirusTotal API`
+
+[Explore Repository](https://github.com/Deepak392/URL-Safety-Analyzer)
+
+</td>
+<td width="50%" valign="top">
 
 ### 04. AI Competitor Watchdog
-**Signeasy | Founder's Office Intern | December 2025–January 2026**
+**Automated Competitive Intelligence**
 
-Worked on a focused V1 prototype intended to automate competitive intelligence gathering and deliver meaningful updates to internal stakeholders.
+<img src="https://img.shields.io/badge/DOMAIN-AI%20AUTOMATION-8A2BE2?style=flat-square" />
+<img src="https://img.shields.io/badge/ORGANIZATION-SIGNEASY-16A085?style=flat-square" />
 
-- Explored automated monitoring of competitor websites, news, and app-store listings.
-- Focused on identifying meaningful changes rather than overwhelming users with raw updates.
-- Worked on an end-to-end workflow for collecting updates and generating structured AI-powered summaries through Slack.
-- Considered the information requirements of Product, Product Marketing, Sales, and Leadership teams.
+A V1 prototype intended to make competitor monitoring more informative and less manual.
 
-**Engineering focus:** AI Automation · Competitive Intelligence · Information Processing · Summarization · Slack
+**My contribution**
+- Explored monitoring across competitor websites, news, and app-store listings.
+- Focused on identifying meaningful competitive changes.
+- Worked on structured AI-powered summaries.
+- Explored Slack-based delivery for internal stakeholders.
 
-*Current learning: Understanding business problems before designing technical workflows and building tools around actual stakeholder needs.*
+**Focus**
 
-### 05. AI-Powered E-Commerce Feedback Engine
-**4i Apps Solutions | Data Science & Machine Learning Intern | June–July 2025**
+`AI Automation` `Competitive Intelligence` `Summarization` `Slack`
 
-Explored an end-to-end data processing and sentiment analysis workflow using Microsoft Fabric.
+[Explore Repository](https://github.com/Deepak392/ai-competitor-watchdog-v1)
 
-- Worked on the architecture and prototype for ingesting customer review and metadata files into a Fabric Lakehouse.
-- Used PySpark to join and transform datasets within Fabric Notebooks.
-- Applied TextBlob sentiment analysis to customer reviews.
-- Explored Power BI dashboards for visualizing product-level sentiment and identifying particularly positive and negative feedback.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Engineering focus:** Microsoft Fabric · PySpark · Data Engineering · NLP · TextBlob · Power BI
+### 05. E-Commerce Feedback Engine
+**AI-Powered Customer Review Analytics**
 
-*Current learning: Connecting data ingestion, transformation, analysis, and visualization into a coherent analytical workflow.*
+<img src="https://img.shields.io/badge/DOMAIN-DATA%20ENGINEERING-E25A1C?style=flat-square" />
+<img src="https://img.shields.io/badge/ORGANIZATION-4I%20APPS-2C7BE5?style=flat-square" />
+
+An architecture and prototype connecting customer review processing with business intelligence.
+
+**My contribution**
+- Explored Microsoft Fabric Lakehouse ingestion.
+- Joined review and metadata datasets using PySpark.
+- Applied TextBlob sentiment analysis.
+- Designed reporting concepts in Power BI.
+
+**Stack**
+
+`Microsoft Fabric` `PySpark` `TextBlob` `Power BI`
+
+*Data Science & ML Internship · June–July 2025*
+
+</td>
+<td width="50%" valign="top">
 
 ### 06. Retention & Churn Analysis
-**Signeasy | Data Analyst Intern | August 2024**
+**Customer Analytics**
 
-Worked with the Analytics team to investigate customer retention and churn patterns following an annual recurring revenue loss identified in a previous business review.
+<img src="https://img.shields.io/badge/DOMAIN-DATA%20ANALYTICS-0078D4?style=flat-square" />
+<img src="https://img.shields.io/badge/ORGANIZATION-SIGNEASY-16A085?style=flat-square" />
 
+Investigating customer retention, churn patterns, and potential early indicators of customer attrition.
+
+**My contribution**
 - Explored retained and churned customer accounts.
-- Investigated product usage, churn patterns, user personas, and potential early indicators of churn.
-- Built an exploratory retention-versus-churn model using available data.
-- Shared intermediate findings during regular team catch-ups.
+- Investigated product usage and customer personas.
+- Built an exploratory retention-versus-churn model.
+- Shared intermediate findings with the Analytics team.
 
-**Engineering focus:** Data Analytics · Exploratory Data Analysis · Predictive Modeling · Business Intelligence
+**Focus**
 
-*Current learning: Translating business questions into analytical investigations and communicating findings while understanding model limitations.*
+`Python` `EDA` `Data Analysis` `Predictive Modeling`
 
----
+*Data Analyst Internship · August 2024*
 
-## My Engineering Approach
-
-I don't believe learning ends when a project works. The most valuable experience often comes from understanding why something didn't work in the first place.
-
-These are a few principles that guide how I approach projects:
-
-| Principle | How I apply it |
-|---|---|
-| Learn by doing | Explore unfamiliar technologies through practical implementation. |
-| Understand before building | Break down requirements and identify the actual problem. |
-| Debug systematically | Investigate dependencies, configurations, data, and implementation issues. |
-| Build collaboratively | Share progress, coordinate ownership, and learn from teammates. |
-| Communicate clearly | Document decisions, explain technical work, and consider stakeholder needs. |
-| Be honest about progress | Distinguish prototypes, ongoing work, planned features, and completed implementations. |
-
-## Technology Landscape
-
-**Programming:** Python · C · C++ · JavaScript · TypeScript
-
-**AI / Machine Learning:** Scikit-learn · PyTorch · NLP · Computer Vision · ResNet34
-
-**Data Engineering & Analytics:** Pandas · NumPy · PySpark · Microsoft Fabric · Power BI · SQL
-
-**Backend & Development:** FastAPI · Django REST API · PostgreSQL · SQLite · Redis
-
-**Robotics & Research:** ROS 2 · FAST-LIO2 · LIO-SAM · PCL · Eigen · RViz
-
-**DevOps & Tools:** Git · GitHub · Docker · Linux · Ubuntu
-
-*Technologies listed reflect exposure across different projects; not every technology has been used at production scale.*
+</td>
+</tr>
+</table>
 
 ---
 
-## Beyond Writing Code
+## `04` — THE ENGINEERING TIMELINE
 
-I also enjoy taking responsibility for the coordination and execution side of engineering.
+*A chronological look at how my interests have evolved.*
 
-- **Team Leadership:** Leading a 19-member engineering team for the Nexus Career platform.
-- **Student Government:** Served as an elected Treasurer, gaining experience in budgeting, financial coordination, and organizing university initiatives.
-- **Technical Community:** Core member of the Turingites Computer Science Society.
-- **Event Organization:** Contributed to university events, workshops, and student-led initiatives.
+```text
+2024  ──  DATA ANALYTICS
+          Signeasy
+          Retention & Churn Analysis
 
-These experiences have helped me appreciate that successful engineering involves more than individual technical contributions.
+2025  ──  DATA SCIENCE & MACHINE LEARNING
+          4i Apps Solutions
+          AI-Powered E-Commerce Feedback Engine
+
+2025  ──  AI AUTOMATION
+          Signeasy · Founder's Office
+          AI Competitor Watchdog
+
+2026  ──  CYBERSECURITY
+          PhishGuard · 48-Hour Hackathon
+
+2026  ──  ROBOTICS & RESEARCH
+          IIT Bhubaneswar
+          LiDAR-Inertial SLAM & Autonomous Navigation
+
+2026  ──  SOFTWARE ENGINEERING & LEADERSHIP
+          Sai University
+          Nexus Career · 19-Member Engineering Team
+```
 
 ---
 
-## What I'm Exploring Next
+## `05` — HOW I APPROACH ENGINEERING
 
-I'm particularly interested in growing in areas where software engineering meets intelligent systems.
+I believe the best learning happens when you move beyond simply making something work.
 
-My current learning interests include:
+| Engineering principle | What it means in practice |
+|:---|:---|
+| **Understand the problem** | Identify the actual need before choosing a technology. |
+| **Learn by building** | Explore unfamiliar tools through hands-on implementation. |
+| **Debug systematically** | Investigate dependencies, configurations, data, and implementation issues. |
+| **Think in systems** | Understand how individual components interact within a larger architecture. |
+| **Build collaboratively** | Share progress, coordinate ownership, and learn from teammates. |
+| **Communicate honestly** | Document decisions and distinguish completed work from proposed features. |
 
-- Designing scalable backend systems and understanding system architecture.
-- Building reliable AI/ML applications and data pipelines.
-- Exploring MLOps, deployment workflows, and production engineering.
-- Understanding distributed systems and cloud infrastructure.
-- Improving engineering collaboration, code quality, and development practices.
+### An idea I try to follow
 
-I'm always interested in opportunities where I can contribute, learn from experienced engineers, and take ownership of meaningful technical challenges.
+> Don't just document what you built. Document what you learned, what went wrong, what you changed, and why.
 
 ---
 
-### A Final Note
+## `06` — LEADERSHIP & BEYOND CODE
 
-I'm still early in my engineering journey, and I don't claim to know everything.
+Engineering doesn't happen in isolation. Some of my most valuable experiences have come from working with people outside purely technical environments.
 
-What I bring is curiosity, a willingness to learn unfamiliar technologies, the discipline to investigate problems, and the ability to work with people towards a common engineering goal.
+- **Student Government Treasurer** — Elected role involving budgeting, financial coordination, vendor negotiations, and university initiatives.
+- **Engineering Team Lead** — Coordinating a 19-member team for Nexus Career.
+- **Turingites CS Society** — Core member of the university's Computer Science community.
+- **University Initiatives** — Contributed to hackathons, workshops, student events, and cross-functional activities.
 
-**The goal isn't just to collect technologies or build projects. It's to become a better engineer with every problem I work on.**
+---
 
-*Thanks for taking the time to explore my work.*
+## `07` — GITHUB ACTIVITY
 
-— Deepak Kumar Patro
+<div align="center">
+
+<a href="https://github.com/Deepak392">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Deepak392&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+</a>
+<a href="https://github.com/Deepak392">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak392&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Deepak392&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## `08` — WHAT'S NEXT?
+
+Currently interested in exploring:
+
+- Scalable backend engineering and system design.
+- Production-ready AI/ML applications.
+- Data engineering and distributed processing.
+- MLOps, deployment, and cloud infrastructure.
+- Software architecture and engineering best practices.
+
+I'm open to connecting with engineers, researchers, founders, and teams working on interesting technical challenges.
+
+<div align="center">
+
+### LET'S BUILD SOMETHING MEANINGFUL.
+
+**Curiosity starts the journey. Engineering takes it forward.**
+
+<br/>
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LET'S%20CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
+
+*Thanks for visiting my corner of GitHub.*
+
+**Deepak Kumar Patro** · Chennai, India
+
+</div>
