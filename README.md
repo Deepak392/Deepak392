@@ -1,9 +1,10 @@
 <!-- =======================================================
      DEEPAK KUMAR PATRO | ENGINEERING PORTFOLIO
-     Special GitHub Profile Repository: Deepak392
+     GitHub Special Profile Repository: Deepak392
+     Version 3.0 | Corrected Mermaid Diagrams
 ======================================================== -->
 
-<!-- HERO -->
+<!-- ================= HERO ================= -->
 
 <div align="center">
 
@@ -26,6 +27,10 @@
 <a href="https://github.com/Deepak392">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Deepak392&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" />
 
 <br/><br/>
 
@@ -73,6 +78,8 @@ I enjoy working on unfamiliar problems, understanding how different components f
 
 <sub>Figures represent the featured work documented in this portfolio, not production deployments or independently measured outcomes.</sub>
 
+> I don't measure engineering by the number of technologies I know. I measure it by the problems I can understand, the systems I can help build, and the things I learn along the way.
+
 ---
 
 # 02 / THE ENGINEERING MAP
@@ -83,6 +90,8 @@ I enjoy working on unfamiliar problems, understanding how different components f
 
 <img src="https://img.shields.io/badge/01-SOFTWARE_ENGINEERING-2563EB?style=for-the-badge" />
 <img src="https://img.shields.io/badge/02-ARTIFICIAL_INTELLIGENCE-7C3AED?style=for-the-badge" />
+
+<br/>
 
 <img src="https://img.shields.io/badge/03-DATA_ENGINEERING-0891B2?style=for-the-badge" />
 <img src="https://img.shields.io/badge/04-ROBOTICS_RESEARCH-0F766E?style=for-the-badge" />
@@ -366,6 +375,18 @@ flowchart LR
 
     class A,B,C,D,E journey
     class F finalNode
+```
+
+| Period | Experience | Key learning |
+|:---|:---|:---|
+| Aug 2024 | Signeasy — Data Analytics | Understanding business data |
+| Jun–Jul 2025 | 4i Apps — Data Science | Data pipelines and sentiment analysis |
+| Dec 2025–Jan 2026 | Signeasy — Founder's Office | AI workflows and business context |
+| Feb 2026 | PhishGuard — Hackathon | Rapid collaborative development |
+| Jun–Aug 2026 | IIT Bhubaneswar — Research | Robotics and sensor fusion |
+| Sep–Dec 2026 | Nexus Career — Team Lead | Software engineering and coordination |
+
+---
 
 # 05 / HOW I THINK ABOUT ENGINEERING
 
@@ -386,8 +407,8 @@ flowchart TD
     G --> H["Reflect and improve"]
     H -.-> B
 
-    classDef primary fill:#172D4A,stroke:#38BDF8,color:#fff
-    class A,B,C,D,E,F,G,H primary
+    classDef processNode fill:#172D4A,stroke:#38BDF8,color:#FFFFFF,stroke-width:2px
+    class A,B,C,D,E,F,G,H processNode
 ```
 
 | Principle | How I put it into practice |
@@ -496,6 +517,8 @@ I'm interested in opportunities where I can contribute to real engineering chall
 
 ---
 
+<!-- ================= FOOTER ================= -->
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,50:172D4A,100:263F70&height=120&section=footer" />
@@ -504,7 +527,7 @@ I'm interested in opportunities where I can contribute to real engineering chall
 
 **Curiosity starts the journey. Engineering takes it forward.**
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/deepakkp1/">
 <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
