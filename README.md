@@ -17,10 +17,10 @@
 
 <br/>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/deepakkp1/">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:deepakkumarpatro2005@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/Deepak392">
